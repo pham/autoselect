@@ -1,0 +1,3 @@
+Similar to HTML's SELECT function but implemented in a INPUT text box. The module uses jQuery's Autocomplete (part of UI) to restrict selection to the given subset.
+
+See http://j.mp/lFhkAl for demo and documentation.
